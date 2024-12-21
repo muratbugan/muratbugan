@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muratbugan
-- 👀 I’m interested in Cloud (AWS-Google Cloud)
+- 👀 I’m interested in Cloud (AWS-Google Cloud-Azure etc ...)
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on All DevOps Projects
 - 📫 How to reach me mb@muratbugan.com
